@@ -1,10 +1,10 @@
-# 🏆 Achievements & Activities
+#  Achievements & Activities
 
 This repository showcases my achievements, leadership roles, and contributions to student organizations and community programs.
 
 ---
 
-## 🎯 Overview
+##  Overview
 
 * Active participation in student leadership and national-level organizations
 * Experience in organizing and managing large-scale programs
@@ -12,59 +12,59 @@ This repository showcases my achievements, leadership roles, and contributions t
 
 ---
 
-## 🏆 Honors & Awards
+##  Honors & Awards
 
-### 🎖 Volunteer Campaign Achievements (2024–2026)
+###  Volunteer Campaign Achievements (2024–2026)
 
 * Successfully completed **Spring Volunteer Campaign** (17th, 18th, 19th editions)
 * Successfully completed **Green Summer Campaign** (31st, 32nd editions)
 
-### 🏅 National-Level Recognition
+###  National-Level Recognition
 
 * Certificate of Merit – **Vietnam National Union of Students (Central Committee)**
   → Outstanding achievements in student union activities (2024–2025)
 
-### 🏙 City-Level Recognition
+###  City-Level Recognition
 
 * Certificate of Merit – **Vietnam Student Union – Ho Chi Minh City**
   → Outstanding contributions to student movements and community programs
 
-### 🏫 Institutional Recognition
+###  Institutional Recognition
 
 * Commendation – **Thu Duc College of Technology**
   → Exemplary Youth Union & Student Union Officer
 
-### 🌱 Community Recognition
+###  Community Recognition
 
 * Certificate of Merit – **People’s Committee of Tan Phuoc Commune (2024)**
   → Outstanding achievements in Green Summer Campaign
 
 ---
 
-## 🧑‍💼 Leadership Roles
+##  Leadership Roles
 
-### 🎓 Student Union – Thu Duc College of Technology
+###  Student Union – Thu Duc College of Technology
 
 **President**
 
 * Led and managed all student union activities
 * Coordinated institutional programs and volunteer activities
 
-### 🌍 Vietnam National Union of Students
+###  Vietnam National Union of Students
 
 **Executive Committee Member**
 
 * Participated in national-level planning
 * Contributed to student development initiatives
 
-### 🏙 Vietnam Student Union – Ho Chi Minh City
+###  Vietnam Student Union – Ho Chi Minh City
 
 **Executive Committee Member**
 
 * Organized city-level programs
 * Coordinated across universities
 
-### 🏫 Youth Union – Thu Duc College of Technology
+###  Youth Union – Thu Duc College of Technology
 
 **Standing Committee Member**
 
@@ -72,7 +72,7 @@ This repository showcases my achievements, leadership roles, and contributions t
 
 ---
 
-## 📌 Note
+##  Note
 
 These experiences demonstrate strong **leadership, responsibility, and organizational skills**, complementing my technical background in system engineering.
-- 📄 [Certificate – Vietnam Student Union](https://drive.google.com/drive/folders/1fGIw57Z6H_9IAGvEeFmumspRitUnNc-n?usp=sharing)
+-  [Certificate – Vietnam Student Union](https://drive.google.com/drive/folders/1fGIw57Z6H_9IAGvEeFmumspRitUnNc-n?usp=sharing)
